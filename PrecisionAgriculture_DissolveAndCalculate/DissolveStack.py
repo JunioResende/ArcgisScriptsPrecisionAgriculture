@@ -1,4 +1,4 @@
-#Aluminio1
+#Aluminio
 import arcpy
 
 Aluminio_poly = "Aluminio_poly"
