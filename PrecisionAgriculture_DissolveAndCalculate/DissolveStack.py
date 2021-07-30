@@ -16,7 +16,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Areia
 import arcpy
@@ -36,7 +36,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Argila
 import arcpy
@@ -56,7 +56,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Boro
 import arcpy
@@ -76,7 +76,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Ca_+_Mg
 import arcpy
@@ -96,7 +96,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Ca_CTC
 import arcpy
@@ -116,7 +116,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #CaK
 import arcpy
@@ -143,7 +143,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Calcio
 import arcpy
@@ -170,7 +170,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #CaMg
 import arcpy
@@ -197,7 +197,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Carbono Organico
 import arcpy
@@ -224,7 +224,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Cobre
 import arcpy
@@ -251,7 +251,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #CTC_TOTAL
 import arcpy
@@ -278,7 +278,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Enxofre
 import arcpy
@@ -305,7 +305,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Ferro
 import arcpy
@@ -332,7 +332,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Fosforo
 import arcpy
@@ -359,7 +359,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #H_+AL
 import arcpy
@@ -386,7 +386,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #H+AL_CTC
 import arcpy
@@ -413,7 +413,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Magnesio_CTC
 import arcpy
@@ -440,7 +440,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Magnesio
 import arcpy
@@ -467,7 +467,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Manganes
 import arcpy
@@ -494,7 +494,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Materia_Organica
 import arcpy
@@ -521,7 +521,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #MgK
 import arcpy
@@ -548,7 +548,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #pH_CaCl
 import arcpy
@@ -575,7 +575,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Potassio_CTC
 import arcpy
@@ -602,7 +602,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Potassio
 import arcpy
@@ -629,7 +629,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Potassio_ppm
 import arcpy
@@ -656,7 +656,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Satturacao_de_Bases
 import arcpy
@@ -683,7 +683,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Saturacao_por_Aluminio
 import arcpy
@@ -710,7 +710,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Silte
 import arcpy
@@ -737,7 +737,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Sodio
 import arcpy
@@ -764,7 +764,7 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
 #Zinco
 import arcpy
@@ -791,5 +791,5 @@ arcpy.CalculateField_management(Aluminio_poly_Dissolve__2_, "area", "!shape.area
 arcpy.AddField_management(Aluminio_poly_Dissolve__3_, "percent", "DOUBLE", "10", "2", "", "", "NULLABLE", "NON_REQUIRED", "")
 
 
-arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/184.59", "VB", "")
+arcpy.CalculateField_management(Aluminio_poly_Dissolve__4_, "percent", "( [area] *100)/197.90", "VB", "")
 
